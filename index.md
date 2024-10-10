@@ -13,7 +13,7 @@ _Here is some more fun for you_ [FUNfromYoutube](https://youtu.be/dQw4w9WgXcQ?si
 - A nugget
 - Some music
 ### Main goal of this assignment
-| Syntax | Description |
-|--------|-------------|
-| having |  some fun   |
-|  task  | completion  |
+| Syntax      | Description            |
+|:-----------:|:----------------------:|
+| At first    | having some fun        |
+| Secondly    | completing the task    |
