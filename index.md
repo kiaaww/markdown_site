@@ -17,3 +17,6 @@ _Here is some more fun for you_ [FUNfromYoutube](https://youtu.be/dQw4w9WgXcQ?si
 |----------|----------|
 | to have  | fun!     |
 | complete | this     |
+#### The tabe is not rendering no matter what so here it is as a list
+1. to have fun
+2. to complete this assignment
