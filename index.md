@@ -3,7 +3,7 @@
 ![nuggie](https://github.com/kiaaww/markdown_site/raw/main/nuggie.PNG)
 ### Sadly I'm just **having fun** with this, but isn't that cute!?
 <!-- Saying no is not allowed -->
-> [!IMPORTANT]
+> **IMPORTANT**:
 > Some fun aka music!!!
 _Here is some more fun for you_ [FUNfromYoutube](https://youtu.be/dQw4w9WgXcQ?si=2SwcO0d_BGAMZxS6)
 #### sorry for that :wink:
@@ -13,7 +13,7 @@ _Here is some more fun for you_ [FUNfromYoutube](https://youtu.be/dQw4w9WgXcQ?si
 - A nugget
 - Some music
 ### Main goal of this assignment
-| Syntax      | Description            |
-|:-----------:|:----------------------:|
-| At first    | having some fun        |
-| Secondly    | completing the task    |
+| Syntax   | Description        |
+|:--------:|:------------------:|
+| At first | having some fun     |
+| Secondly | completing the task |
